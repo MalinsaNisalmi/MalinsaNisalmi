@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Malinsa Nisalmi</h1>
-<h3 align="center">I'm undergraduate SE from Sri Lanka</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7005D&center=true&vCenter=true&width=700&lines=Hey+I'm+Malinsa+Nisalmi+😎;Student+at+Java+Institute+Sri+Lanka+🎓;Robotics+and+Web+Development+🤖💻;Always+Learning+and+Building+💡" alt="Typing SVG" />
+</p>
 
 ---
 
