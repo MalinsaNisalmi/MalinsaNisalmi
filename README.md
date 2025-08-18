@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **PHP**
 
-- 📫 How to reach me **malinsanisalmi@gmail.com**
+- 📫 How to reach me **malinsanisalmi925@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
