@@ -7,7 +7,7 @@
 
 ---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=malinsanisalmi&label=Profile%20views&color=fff9c4&style=flat" alt="malinsanisalmi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=malinsanisalmi&label=Profile%20views&color=ffffff&style=flat" alt="malinsanisalmi" /> </p>
 
 - 🌱 I’m currently learning **Html,Css,Js,Java,PHP**
 
